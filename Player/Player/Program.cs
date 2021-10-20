@@ -14,7 +14,6 @@ namespace Player
             recordable.Record();
             recordable.Pause();
             recordable.Stop();
-
         }
     }
 }
