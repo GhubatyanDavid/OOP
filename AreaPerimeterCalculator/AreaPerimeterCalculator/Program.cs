@@ -31,8 +31,6 @@ namespace AreaPerimeterCalculator
         {
             return Perimetercalculator();
         }
-
-
     }
     class Program
     {
