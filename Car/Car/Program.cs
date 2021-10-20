@@ -18,7 +18,6 @@ namespace Car
             Plane plane = new Plane(year,numberofPassenger,x,y,height);
             Ship ship = new Ship(numberofPassenger, year,x,y,portNumber);
             Car car = new Car(year, numberofPassenger,price,speed,x,y);
-
          }
     }
 }
