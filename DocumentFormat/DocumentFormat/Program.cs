@@ -11,7 +11,7 @@ namespace DocumentFormat
             DOCHandler doc = new DOCHandler();
             while (true)
             {
-                Console.WriteLine("Please Type Format of Document -- Example` XML , DOC , TXT or (Click X for exit)");
+                Console.WriteLine("Please  Type Format of Document -- Example` XML , DOC , TXT or (Click X for exit)");
                 string format = Console.ReadLine();
                 if (format == "XML")
                 {
