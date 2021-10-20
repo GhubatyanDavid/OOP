@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mega PC\\source\\repos\\PolygonPerimeter\\PolygonPerimeter\\PolygonPerimeter.csproj",
+      "projectUniqueName": "E:\\Github\\OOP\\PolygonPerimeter\\PolygonPerimeter\\PolygonPerimeter.csproj",
       "projectName": "PolygonPerimeter",
-      "projectPath": "C:\\Users\\Mega PC\\source\\repos\\PolygonPerimeter\\PolygonPerimeter\\PolygonPerimeter.csproj",
+      "projectPath": "E:\\Github\\OOP\\PolygonPerimeter\\PolygonPerimeter\\PolygonPerimeter.csproj",
       "packagesPath": "C:\\Users\\Mega PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mega PC\\source\\repos\\PolygonPerimeter\\PolygonPerimeter\\obj\\",
+      "outputPath": "E:\\Github\\OOP\\PolygonPerimeter\\PolygonPerimeter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

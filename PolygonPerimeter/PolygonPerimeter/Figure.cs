@@ -9,24 +9,22 @@ namespace PolygonPerimeter
     class Figure
     {
         private Point[] _points;
-        public Point[] Points 
+        public Point[] Points
         {
             set
             { _points = value; }
             get
             { return _points; }
         }
-        public Figure(Point a,Point b,Point c,Point d)
+        public Figure(Point a, Point b, Point c, Point d)
         {
             _points = new Point[4];
             _points[0] = a;
             _points[1] = b;
             _points[2] = c;
             _points[3] = d;
-
-            
         }
-        public double LenghtSide(Point a,Point b)
+        public double LenghtSide(Point a, Point b)
         {
             Console.WriteLine("Point Name`");
             Console.WriteLine(a.Name);
@@ -34,8 +32,6 @@ namespace PolygonPerimeter
             int c = a.PointA + b.PointA;
             Console.WriteLine(c);
             return c;
-
-            
         }
         public void Perimetercalculator()
         {
