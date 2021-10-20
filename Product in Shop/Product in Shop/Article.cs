@@ -45,7 +45,7 @@ namespace Product_in_Shop
             set { _meatPrice = value; }
         }
         private int _vegetablesPrice;
-        public int VegetablesPrice
+        public int VegetablesPrice 
         {
             get { return _vegetablesPrice; }
             set { _vegetablesPrice = value; }
