@@ -22,7 +22,7 @@ namespace PolygonPerimeter
             _points[0] = a;
             _points[1] = b;
             _points[2] = c;
-            _points[3] = d;
+            _points[3] = d;  
         }
         public double LenghtSide(Point a, Point b)
         {
