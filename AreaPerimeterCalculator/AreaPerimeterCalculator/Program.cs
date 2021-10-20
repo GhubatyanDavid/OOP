@@ -36,7 +36,6 @@ namespace AreaPerimeterCalculator
     }
     class Program
     {
-
         static void Main(string[] args)
         {
             Rectangle instance = new Rectangle();
