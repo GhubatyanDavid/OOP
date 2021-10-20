@@ -1,0 +1,16 @@
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.exe
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.deps.json
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.runtimeconfig.json
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.runtimeconfig.dev.json
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.dll
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\ref\PolygonPerimeter.dll
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\bin\Debug\net5.0\PolygonPerimeter.pdb
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.csproj.AssemblyReference.cache
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.AssemblyInfoInputs.cache
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.AssemblyInfo.cs
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.dll
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\ref\PolygonPerimeter.dll
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.pdb
+C:\Users\Mega PC\source\repos\PolygonPerimeter\PolygonPerimeter\obj\Debug\net5.0\PolygonPerimeter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.exe
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.deps.json
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.runtimeconfig.json
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.runtimeconfig.dev.json
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.dll
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\ref\Document.dll
+C:\Users\Mega PC\source\repos\Document\Document\bin\Debug\net5.0\Document.pdb
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.csproj.AssemblyReference.cache
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.AssemblyInfoInputs.cache
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.AssemblyInfo.cs
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.csproj.CoreCompileInputs.cache
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.dll
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\ref\Document.dll
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.pdb
+C:\Users\Mega PC\source\repos\Document\Document\obj\Debug\net5.0\Document.genruntimeconfig.cache

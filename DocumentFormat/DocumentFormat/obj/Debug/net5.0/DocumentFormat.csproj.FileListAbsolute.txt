@@ -1,0 +1,16 @@
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.exe
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.deps.json
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.runtimeconfig.json
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.runtimeconfig.dev.json
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.dll
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\ref\DocumentFormat.dll
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\bin\Debug\net5.0\DocumentFormat.pdb
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.csproj.AssemblyReference.cache
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.AssemblyInfoInputs.cache
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.AssemblyInfo.cs
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.csproj.CoreCompileInputs.cache
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.dll
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\ref\DocumentFormat.dll
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.pdb
+C:\Users\Mega PC\source\repos\DocumentFormat\DocumentFormat\obj\Debug\net5.0\DocumentFormat.genruntimeconfig.cache
