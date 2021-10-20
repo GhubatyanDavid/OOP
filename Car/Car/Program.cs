@@ -5,7 +5,7 @@ namespace Car
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int height = 1480;
             int price = 18000;
             int speed = 160;
