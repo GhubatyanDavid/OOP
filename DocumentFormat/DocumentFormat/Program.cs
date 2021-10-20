@@ -48,7 +48,6 @@ namespace DocumentFormat
                     Console.WriteLine("Wrong FORMAT!!! Please Try Again");
                 }
             }
-
         }
     }
 }
