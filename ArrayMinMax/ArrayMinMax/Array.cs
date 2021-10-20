@@ -54,7 +54,7 @@ namespace ArrayMinMax
             {
                 AritEL += _array[index];
             }
-            Console.WriteLine($"Arithmetic mean of all elements is`{AritEL/2}");
+            Console.WriteLine($"Arithmetic mean of all elements  is`{AritEL/2}");
         }
         public void OddValue()
         {
