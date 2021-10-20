@@ -67,9 +67,7 @@ namespace ZooProgram
                     if (animalName == other[i])
                         Console.WriteLine(i + 1);
                 }
-            }
-            
-
+            } 
         }
     }
 }
