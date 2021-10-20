@@ -7,7 +7,7 @@ namespace BookProgram
         private string _book;
         public string show()
         {
-            Console.WriteLine("Please Type Book name`");
+            Console.WriteLine("Please  Type Book name`");
             _book = Console.ReadLine();
             Console.ForegroundColor = ConsoleColor.Red;
             return _book;
