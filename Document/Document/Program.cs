@@ -7,7 +7,7 @@ namespace Document
         static void Main(string[] args)
         {
             DocumentWorker documentWorker = new DocumentWorker();
-            Console.WriteLine("Adding Document ...");
+            Console.WriteLine("Adding  Document ...");
             documentWorker.OpenDocument();
             Console.WriteLine("...");
             documentWorker.EditDocument();
