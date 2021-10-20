@@ -24,7 +24,6 @@ namespace BookProgram
             Console.ForegroundColor = ConsoleColor.Blue;
             return _title;
         }
-
     }
     class Author
     {
