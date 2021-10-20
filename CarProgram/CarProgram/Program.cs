@@ -57,9 +57,6 @@ namespace CarProgram
             Console.WriteLine("Car crashed!!! speed is to high");
             return _maxspeed;
         }
-        
-      
-        
     }
     class Program
     {
