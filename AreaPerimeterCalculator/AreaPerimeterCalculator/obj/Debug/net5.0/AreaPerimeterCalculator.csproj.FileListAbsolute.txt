@@ -1,0 +1,16 @@
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.exe
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.deps.json
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.runtimeconfig.json
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.runtimeconfig.dev.json
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.dll
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\ref\AreaPerimeterCalculator.dll
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\bin\Debug\net5.0\AreaPerimeterCalculator.pdb
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.csproj.AssemblyReference.cache
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.AssemblyInfoInputs.cache
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.AssemblyInfo.cs
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.csproj.CoreCompileInputs.cache
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.dll
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\ref\AreaPerimeterCalculator.dll
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.pdb
+E:\Github\OOP\AreaPerimeterCalculator\AreaPerimeterCalculator\obj\Debug\net5.0\AreaPerimeterCalculator.genruntimeconfig.cache
