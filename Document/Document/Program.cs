@@ -7,7 +7,6 @@ namespace Document
         static void Main(string[] args)
         {
             DocumentWorker documentWorker = new DocumentWorker();
-            
             Console.WriteLine("Adding Document ...");
             documentWorker.OpenDocument();
             Console.WriteLine("...");
@@ -40,7 +39,6 @@ namespace Document
                 documentWorker.OpenDocument();
                 documentWorker.SaveDocument();
             }
-
         }
     }
 }
