@@ -28,17 +28,17 @@ namespace NewCalculator
         }
         public static void DeterminedOperation()
         {
-             if (_arithmeticOperation == "+")
+            if (_arithmeticOperation == "+")
             {
                 int sum = _firstNumber + _secondNumber;
                 Console.WriteLine($"{_firstNumber} + {_secondNumber} = {sum}");
             }
-            else if (_arithmeticOperation == "-" )
+            else if (_arithmeticOperation == "-")
             {
                 int sum = _firstNumber - _secondNumber;
                 Console.WriteLine($"{_firstNumber} - {_secondNumber} = {sum}");
             }
-            else if (_arithmeticOperation == "/" )
+            else if (_arithmeticOperation == "/")
             {
                 if (_secondNumber == 0)
                 {
@@ -50,7 +50,7 @@ namespace NewCalculator
                     Console.WriteLine($"{_firstNumber} / {_secondNumber} = {sum}");
                 }
             }
-            else if (_arithmeticOperation == "*") 
+            else if (_arithmeticOperation == "*")
             {
                 int sum = _firstNumber + _secondNumber;
                 Console.WriteLine($"{_firstNumber} * {_secondNumber} = {sum}");
