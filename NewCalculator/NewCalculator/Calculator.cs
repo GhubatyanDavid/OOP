@@ -46,13 +46,13 @@ namespace NewCalculator
                 }
                 else
                 {
-                    int sum = _firstNumber + _secondNumber;
+                    int sum = _firstNumber / _secondNumber;
                     Console.WriteLine($"{_firstNumber} / {_secondNumber} = {sum}");
                 }
             }
             else if (_arithmeticOperation == "*")
             {
-                int sum = _firstNumber + _secondNumber;
+                int sum = _firstNumber * _secondNumber;
                 Console.WriteLine($"{_firstNumber} * {_secondNumber} = {sum}");
             }
             else
