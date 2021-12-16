@@ -14,3 +14,19 @@ C:\Users\Mega PC\source\repos\Car\Car\obj\Debug\net5.0\Car.dll
 C:\Users\Mega PC\source\repos\Car\Car\obj\Debug\net5.0\ref\Car.dll
 C:\Users\Mega PC\source\repos\Car\Car\obj\Debug\net5.0\Car.pdb
 C:\Users\Mega PC\source\repos\Car\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.exe
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.deps.json
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.runtimeconfig.json
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.dll
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\ref\Car.dll
+E:\Github\OOP\Car\Car\bin\Debug\net5.0\Car.pdb
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.csproj.AssemblyReference.cache
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.dll
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\ref\Car.dll
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.pdb
+E:\Github\OOP\Car\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache
