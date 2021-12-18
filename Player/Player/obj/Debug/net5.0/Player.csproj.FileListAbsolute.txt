@@ -14,3 +14,19 @@ C:\Users\Mega PC\source\repos\Player\Player\obj\Debug\net5.0\Player.dll
 C:\Users\Mega PC\source\repos\Player\Player\obj\Debug\net5.0\ref\Player.dll
 C:\Users\Mega PC\source\repos\Player\Player\obj\Debug\net5.0\Player.pdb
 C:\Users\Mega PC\source\repos\Player\Player\obj\Debug\net5.0\Player.genruntimeconfig.cache
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.exe
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.deps.json
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.runtimeconfig.json
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.runtimeconfig.dev.json
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.dll
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\ref\Player.dll
+E:\Github\OOP\Player\Player\bin\Debug\net5.0\Player.pdb
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.csproj.AssemblyReference.cache
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.AssemblyInfoInputs.cache
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.AssemblyInfo.cs
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.csproj.CoreCompileInputs.cache
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.dll
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\ref\Player.dll
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.pdb
+E:\Github\OOP\Player\Player\obj\Debug\net5.0\Player.genruntimeconfig.cache
