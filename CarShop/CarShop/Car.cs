@@ -8,16 +8,28 @@ namespace CarShop
 {
     internal class Car
     {
+        private string _name;
+        private string _surName;
         private string _carName;
         private string _carYear;
-        public Car(string CarName, string CarYear)
+        public Car(string carName, string carYear,string name,string surName)
         {
-            _carName = CarName;
-            _carYear = CarYear;
+            _name = name;
+            _surName = surName;
+            _carName = carName;
+            _carYear = carYear;
+        }
+        public string Name
+        { 
+            get
+            { 
+                return _name;
+            }
         }
         public override string ToString()
         {
-            return "Car: " + _carName + " " + _carYear;
+            return "Car: " + _carName + " " + _carYear + " Name` " + _name + " Surname` " + _surName;
         }
+        
     }
 }
