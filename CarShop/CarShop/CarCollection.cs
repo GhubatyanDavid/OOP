@@ -8,55 +8,53 @@ namespace CarShop
 {
     internal class CarCollection<T>  : IVehicleCollection<T> where T : Car
      {
-        private Car[] _cars;
+        public Car[] cars;
 
         public int Count
         {
-            get { return _cars.Length; }
+            get { return cars.Length; }
         }
         public CarCollection(int length)
         {
-            _cars = new Car[length];
+            cars = new Car[length];
 
         }
-        public void AddCar(T car,int number)
+        public Car[] Cars
         {
-            if (number >= _cars.Length)
+            get { return cars; }
+        }
+        public void AddVehicle(T car,int number)
+        {
+            for (int i = 0; i < cars.Length; i++)
             {
-                Console.WriteLine("Axper jan tex chka kangnelu");
-                for (int i = 0; i <_cars.Length; i++)
+                Console.WriteLine(cars[i]); 
+            }
+            if (number >= cars.Length)
+            {
+                Console.WriteLine("You cant park Car");
+                for (int i = 0; i <cars.Length; i++)
                 {
-                    Console.Write(_cars[i]);
+                    Console.Write(cars[i]);
                     Console.Write($" Parking Number` {i}");
                     Console.WriteLine();
                 }
             }
-            else if (_cars[number] != null)
+            else if (cars[number] != null)
             {
-                Console.WriteLine($"{car.Name} jan tex chka kangnelu {number}-i tak");
-                Console.WriteLine(_cars[number]);
+                Console.WriteLine($"{car.Name} sir you cant park  in {number}");
+                Console.WriteLine(cars[number]);
             }
             else 
             { 
-                _cars[number] = car;
+                cars[number] = car;
             }
         }
         public T this[int index] 
         {
            get
             {   
-                //Old Version`
-                //if (_cars[index] is T)                
-                //    return (T)_cars[index];
-                //else
-                //    return null;
-                //if (_cars[index] is T car)
-                //    return car;
-                //else
-                //    return null;
-                var car1 = _cars[index] as T;
+                var car1 = cars[index] as T;
                 return car1;
-
             }
         }
     }

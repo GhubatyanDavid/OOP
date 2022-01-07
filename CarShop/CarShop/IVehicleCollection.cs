@@ -8,9 +8,9 @@ namespace CarShop
 {
     internal interface IVehicleCollection<T>
     {
-        public void  AddCar(T car, int number);
+        public void AddVehicle(T vehicle, int number);
         public T this[int index]
-            { get;}
+        { get; }
         public int Count
         {
             get;

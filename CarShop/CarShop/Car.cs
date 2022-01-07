@@ -12,7 +12,7 @@ namespace CarShop
         private string _surName;
         private string _carName;
         private string _carYear;
-        public Car(string carName, string carYear,string name,string surName)
+        public Car(string carName, string carYear, string name, string surName)
         {
             _name = name;
             _surName = surName;
@@ -20,9 +20,9 @@ namespace CarShop
             _carYear = carYear;
         }
         public string Name
-        { 
+        {
             get
-            { 
+            {
                 return _name;
             }
         }
@@ -30,6 +30,5 @@ namespace CarShop
         {
             return "Car: " + _carName + " " + _carYear + " Name` " + _name + " Surname` " + _surName;
         }
-        
     }
 }
