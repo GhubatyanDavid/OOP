@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-    abstract class Animalsdoing
+    interface IMammal
     {
-        public abstract  void Eat(Animals[] animal);
-        public abstract void Drink(Animals[] animal);
-
-
+        public abstract void Run();
     }
 }

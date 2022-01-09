@@ -6,20 +6,16 @@ namespace Zoo
     {
         static void Main(string[] args)
         {
-
-            Animals animals = new Animals("Tiger", "Mammal");
-            Animals animals1 = new Animals("Cow", "Mammal");
-            Animals animals2 = new Animals("Monkey","Mammal");
-            Animals animals3 = new Animals("Eagle","Bird");
-            Animals animals4 = new Animals("Lizard","Reptile");
-            Zoo<Animals> zoo = new Zoo<Animals>(5);
-            zoo.AddAnimal(animals, animals1, animals2, animals3, animals4);
-            animals.Run(zoo.animal);
-            animals.Fly(zoo.animal);
-            animals.Drink(zoo.animal);
-            animals.Eat(zoo.animal);
-            
-            
+            Bird bird = new Bird("Eagle", "Bird");
+            Dog firstDog = new Dog("Jacks", "Dog");
+            Dog secondDog = new Dog("Doberman","Dog");
+            Cat firstCat = new Cat("Hana","Cat");
+            Cat secondCat = new Cat("Marusya","Cat");
+            Console.WriteLine("Please Type how much animals you have");
+            int number =Convert.ToInt32(Console.ReadLine());
+            Zoo<Animal> zoo = new Zoo<Animal>(number);
+            zoo.AddAnimals( bird, firstDog, secondDog, secondCat, firstCat) ;
+            zoo.AnimalsDo();
         }
     }
 }

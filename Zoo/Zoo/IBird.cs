@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Zoo
 {
-    interface IBirds
+    interface IBird
     {
-        public void Fly(Animals[] animal);
+        public void Fly();
     }
 }
