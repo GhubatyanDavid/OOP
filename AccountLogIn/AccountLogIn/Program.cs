@@ -2,7 +2,7 @@
 
 namespace AccountLogIn
 {
-    internal class Program : Account
+    internal class Program 
     {
         static private Accounts Handler(string name)
         {
