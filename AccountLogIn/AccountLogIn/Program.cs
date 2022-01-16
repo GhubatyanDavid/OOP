@@ -4,9 +4,10 @@ namespace AccountLogIn
 {
     internal class Program : Account
     {
-        static private Accounts Handler()
+        static private Accounts Handler(string name)
         {
             Console.WriteLine("Sorry This Names Blocked!!!");
+            string adminMail =name + "This member is blocked!!";
             return null;
         }
         static private Accounts Handler1(string name)
@@ -22,7 +23,7 @@ namespace AccountLogIn
             string name = Console.ReadLine();
             if(name == "Jack" || name == "Steven" || name == "Metyu")
             {
-                account.Login += Handler();
+                account.Login += Handler(name);
             }
             else
             {
