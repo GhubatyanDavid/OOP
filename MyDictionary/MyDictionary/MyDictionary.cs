@@ -7,26 +7,29 @@ using System.Threading.Tasks;
 
 namespace MyDictionary
 {
-    internal class MyDictionary<TKey,TValue> : IEnumerable , IEnumerator where TKey :class
+    internal class MyDictionary<TKey,TValue> : IEnumerable , IEnumerator  where TKey : class
     {
         Element<TKey,TValue>[] elementArray = null;
         public MyDictionary(Element<TKey,TValue>[] element)
         {
             elementArray = element;
+        }
+        public void Add(Element<TKey,TValue>[] element)
+        {
             for (int i = 0; i < element.Length; i++)
             {
-                for (int j = 1; j < element.Length; j++)
+                for (int j = 0; j < element.Length; j++)
                 {
-                    if (elementArray[i].key == element[j].key & i != j)
+                    if (element[i].key == element[j].key & i!=j)
                     {
-                        throw new Exception("Error");
+                        throw new Exception("Sorry An item with the same key has already been added!!");
                     }
                     else
                     {
                         elementArray[i] = element[i];
                     }
-                    
                 }
+                
             }
         }
         int  position = 0;
@@ -46,8 +49,6 @@ namespace MyDictionary
             {
                 return false;
             }
-            
-            
         }
         public void Reset()
         {
