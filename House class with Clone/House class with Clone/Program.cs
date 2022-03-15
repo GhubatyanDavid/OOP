@@ -13,7 +13,6 @@ namespace House_class_with_Clone
             Console.WriteLine($"Original Program {house.ToString()}");
             Program cloneProgram = program.MemberwiseClone() as Program;
             Console.WriteLine($"Clone Program {house.ToString()}");
-
         }
     }
 }
