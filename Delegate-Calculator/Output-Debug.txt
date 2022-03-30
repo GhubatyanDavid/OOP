@@ -1,0 +1,8 @@
+﻿'Delegate-Calculator.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Delegate-Calculator.exe' (CoreCLR: clrhost): Loaded 'E:\Github\OOP\Delegate-Calculator\Delegate-Calculator\bin\Debug\net5.0\Delegate-Calculator.dll'. Symbols loaded.
+'Delegate-Calculator.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Delegate-Calculator.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Delegate-Calculator.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Delegate-Calculator.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.12\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The program '[18984] Delegate-Calculator.exe: Program Trace' has exited with code 0 (0x0).
+The program '[18984] Delegate-Calculator.exe' has exited with code 0 (0x0).
