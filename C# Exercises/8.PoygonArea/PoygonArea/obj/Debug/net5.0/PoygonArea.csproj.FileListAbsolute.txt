@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.exe
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.dll
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\bin\Debug\net5.0\PoygonArea.pdb
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.dll
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\refint\PoygonArea.dll
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.pdb
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\PoygonArea.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\PoygonArea\PoygonArea\obj\Debug\net5.0\ref\PoygonArea.dll

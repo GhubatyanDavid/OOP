@@ -1,0 +1,32 @@
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.exe
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.dll
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\bin\Debug\net5.0\WW.pdb
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.dll
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\refint\WW.dll
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.pdb
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\WW.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\WW\WW\obj\Debug\net5.0\ref\WW.dll
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.exe
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.deps.json
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.runtimeconfig.json
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.dll
+C:\Users\HighEnd\Desktop\6.WW\WW\bin\Debug\net5.0\WW.pdb
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.dll
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\refint\WW.dll
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.pdb
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\WW.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\6.WW\WW\obj\Debug\net5.0\ref\WW.dll

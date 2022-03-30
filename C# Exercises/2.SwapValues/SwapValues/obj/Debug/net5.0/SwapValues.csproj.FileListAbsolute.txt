@@ -1,0 +1,32 @@
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.exe
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.dll
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.pdb
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.dll
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\refint\SwapValues.dll
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.pdb
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\SwapValues\SwapValues\obj\Debug\net5.0\ref\SwapValues.dll
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.exe
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.deps.json
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.runtimeconfig.json
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.dll
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\bin\Debug\net5.0\SwapValues.pdb
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.dll
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\refint\SwapValues.dll
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.pdb
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\SwapValues.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\SwapValues\SwapValues\obj\Debug\net5.0\ref\SwapValues.dll

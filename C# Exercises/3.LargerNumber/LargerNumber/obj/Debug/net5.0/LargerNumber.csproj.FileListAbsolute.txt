@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.exe
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\bin\Debug\net5.0\LargerNumber.pdb
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\refint\LargerNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.pdb
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\LargerNumber.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\LargerNumber\LargerNumber\obj\Debug\net5.0\ref\LargerNumber.dll

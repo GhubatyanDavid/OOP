@@ -1,0 +1,32 @@
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.exe
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.dll
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.pdb
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.dll
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\refint\BankDeposit.dll
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.pdb
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\BankDeposit\BankDeposit\obj\Debug\net5.0\ref\BankDeposit.dll
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.exe
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.deps.json
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.runtimeconfig.json
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.dll
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\bin\Debug\net5.0\BankDeposit.pdb
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.dll
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\refint\BankDeposit.dll
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.pdb
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\BankDeposit.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\7.BankDeposit\BankDeposit\obj\Debug\net5.0\ref\BankDeposit.dll

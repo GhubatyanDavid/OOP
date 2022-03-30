@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoygonArea", "PoygonArea\PoygonArea.csproj", "{33DE2016-B6DD-4C15-B53A-8BDC94DB08C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DE2016-B6DD-4C15-B53A-8BDC94DB08C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DE2016-B6DD-4C15-B53A-8BDC94DB08C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DE2016-B6DD-4C15-B53A-8BDC94DB08C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DE2016-B6DD-4C15-B53A-8BDC94DB08C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59A04D92-7D4C-48E3-B888-7C90C1388E31}
+	EndGlobalSection
+EndGlobal

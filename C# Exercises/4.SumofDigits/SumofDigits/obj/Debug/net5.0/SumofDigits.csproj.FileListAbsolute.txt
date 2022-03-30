@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.exe
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.dll
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\bin\Debug\net5.0\SumofDigits.pdb
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.dll
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\refint\SumofDigits.dll
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.pdb
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\SumofDigits.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\SumofDigits\SumofDigits\obj\Debug\net5.0\ref\SumofDigits.dll

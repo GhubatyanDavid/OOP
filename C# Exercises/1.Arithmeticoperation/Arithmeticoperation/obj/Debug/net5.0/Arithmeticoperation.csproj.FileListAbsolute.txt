@@ -1,0 +1,32 @@
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.exe
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\refint\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\ref\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.exe
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.deps.json
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.runtimeconfig.json
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\bin\Debug\net5.0\Arithmeticoperation.pdb
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\refint\Arithmeticoperation.dll
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.pdb
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\Arithmeticoperation.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\Arithmeticoperation\Arithmeticoperation\obj\Debug\net5.0\ref\Arithmeticoperation.dll

@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.exe
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\bin\Debug\net5.0\ReverseNumber.pdb
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\refint\ReverseNumber.dll
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.pdb
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ReverseNumber.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\ReverseNumber\ReverseNumber\obj\Debug\net5.0\ref\ReverseNumber.dll
